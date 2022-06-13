@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-08T10:34:00.813Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="AJkO-a6GFSLiSYOZUh-r" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-13T08:58:55.235Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="LRGtCBxGDmGN0NsEg7Hb" version="19.0.2" type="github">
   <diagram id="gsZYS-V4wySIiN6geGYU" name="Page-1">
     <mxGraphModel dx="1422" dy="771" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -119,7 +119,7 @@
             <mxPoint x="518" y="727" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aTzzNSq5OnIPz9EDc39E-29" value="启动时&lt;br&gt;加载" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="m6_ld3KDYOjiRSKoo81R-97" vertex="1" connectable="0">
+        <mxCell id="aTzzNSq5OnIPz9EDc39E-29" value="查询" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="m6_ld3KDYOjiRSKoo81R-97" vertex="1" connectable="0">
           <mxGeometry x="-0.6512" y="3" relative="1" as="geometry">
             <mxPoint x="2" y="-32" as="offset" />
           </mxGeometry>
@@ -147,17 +147,9 @@
             <mxPoint x="237.5" y="703.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aTzzNSq5OnIPz9EDc39E-28" value="启动时&lt;br&gt;加载" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="m6_ld3KDYOjiRSKoo81R-109" vertex="1" connectable="0">
+        <mxCell id="aTzzNSq5OnIPz9EDc39E-28" value="查询" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="m6_ld3KDYOjiRSKoo81R-109" vertex="1" connectable="0">
           <mxGeometry x="-0.3472" y="-2" relative="1" as="geometry">
             <mxPoint x="-2" y="-18" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="lkviX5Y2xE-Iy3tyt4G0-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="m6_ld3KDYOjiRSKoo81R-110" target="m6_ld3KDYOjiRSKoo81R-105">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="lkviX5Y2xE-Iy3tyt4G0-4" value="rpc" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lkviX5Y2xE-Iy3tyt4G0-3">
-          <mxGeometry x="-0.2174" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="m6_ld3KDYOjiRSKoo81R-110" value="观众列表" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -240,7 +232,7 @@
         <mxCell id="aTzzNSq5OnIPz9EDc39E-13" value="Group&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="aTzzNSq5OnIPz9EDc39E-11" vertex="1">
           <mxGeometry x="110" y="10" width="47" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="lkviX5Y2xE-Iy3tyt4G0-5" value="broom_kafka_producer_common" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lkviX5Y2xE-Iy3tyt4G0-5" value="broom_kafka_producer_common" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="510.25" y="253" width="205.5" height="34" as="geometry" />
         </mxCell>
       </root>
